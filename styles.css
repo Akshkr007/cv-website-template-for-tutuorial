@@ -1,0 +1,43 @@
+/********************** TAG SELECTORS ***************/
+h1 {
+    color: #ff2e63 ;
+    font-family: 'open sans', serif;
+    font-size: 120px;
+    font-display: auto;
+    text-decoration-skip-ink: auto ;
+}
+
+body {
+         background-color: #fcdada;
+         color: #686d76;
+         font-size: 30px ;
+         font-variant: small-caps;
+         font-family: 'Quicksand', sans-serif;
+}
+
+/*************** CLASS SELECTOR *******************/
+
+.bacon {
+    background-color:#f38181;
+    width: 250px;
+    border-radius: 20px;
+
+}
+
+.broccoli {
+    background-color:#71c9ce;
+    width: 250px;
+    border-radius: 20px;
+    
+}
+
+/*************** ID SELECTOR *******************/
+#heading {
+    color: #132743;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 120px;
+}
+/*************** Pseudo class **********/
+img:hover {
+     background-color: #f0a500;
+}
